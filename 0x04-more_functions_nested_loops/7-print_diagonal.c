@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - print diagonal line
- * you can use _putchar
+ *
  * @n: is the number of times the \ character
  * should be printed
  */
