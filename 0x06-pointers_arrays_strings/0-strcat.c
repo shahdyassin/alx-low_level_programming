@@ -3,10 +3,10 @@
 /**
  * _stract - function that concatenates two strings
  *
- * @dest: pointer to destination input
- * @src: pointer to source input
+ * @dest: input value
+ * @src: input value
  *
- * Return: pointer to resulting string @dest
+ * Return: void
  */
 char *_stract(char *dest, char *src)
 {
