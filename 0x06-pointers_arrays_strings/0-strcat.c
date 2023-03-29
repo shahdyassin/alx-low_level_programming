@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * _stract - function that concatenates two strings
- *
- * @dest: input value
- * @src: input value
- *
- * Return: void
+ * _strcat - concatenate 2 strings
+ * @dest: destination string
+ * @src:the source string
+ * Return: the destination string
  */
-char *_stract(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	int destlen = 0;
 	int srclen = 0;
